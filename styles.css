@@ -103,6 +103,7 @@ body {
 @media (max-width: 375px) {
   #blog-card {
     max-width: 327px;
+    gap: 25px;
   }
 
   #blog-content {
